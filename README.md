@@ -1,5 +1,5 @@
 # QOSF-TASK1
-This repo consists of 4 folder , namely, QOSF-TASK1, QOSF-MODIFIED TASK1, TARGET STATE, RESULT COMPARISON 
+This repo consists of 4 folder :-
 
 1.) QOSF-TASK1 - This folder has a jupyter notebook for the implementation of the task-1 along with the graphs for cost vs no. of iteration for different layers (1-9)
 
