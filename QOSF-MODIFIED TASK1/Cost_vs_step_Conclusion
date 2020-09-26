@@ -1,0 +1,2 @@
+All the graphs for different number of layer shows that normal AdagradOptimizer seems to be more stable than GradientOptimizer, as the cost approaches a 
+saturation point and the number of layer increases. 
