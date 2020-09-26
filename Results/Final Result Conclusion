@@ -1,0 +1,8 @@
+In the modified circuit all the RX gates has been rplaced by RY gates while RZ by RX. Following conclusion can be drawn from the plot above:-
+
+1.) For lesser number of layers the modified version of the circuit gives less error and can be preffered over the given circuit in the task.
+
+2.) Also , the optimizer gradient descent seems to be a better option for the task.
+
+3.) For larger number of layers the optimizer does'nt seem to give much advanage rather the curve above seems to be saturating starting from number of layers=5
+
