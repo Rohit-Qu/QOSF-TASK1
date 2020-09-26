@@ -1,1 +1,2 @@
-All the graphs for different number of layer shows that normal gradient descent seems to become unstable as the cost approaches a saturation point and the number of layer increases. 
+All the graphs for different number of layer shows that normal gradient descent seems to become unstable as the cost approaches a 
+saturation point and the number of layer increases. 
